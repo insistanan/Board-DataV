@@ -12,7 +12,8 @@ export default {
 
 <style>
 body{
-  background-color: beige;
+  background-image: url("assets/page_bg.png");
+  background-size: cover;
 }
 *{
   margin: 0;
